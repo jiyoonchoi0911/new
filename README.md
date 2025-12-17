@@ -32,7 +32,7 @@ http://localhost:8501
 ## Model
 * Tool/Framework: Python, Streamlit, Scikit-learn
 * Model File: posture_model.pkl
-* Accuracy: 93%
+* Accuracy: 94.5%
 * Input: Real-time webcam feed (processed via MediaPipe)
 
 ## Credits
